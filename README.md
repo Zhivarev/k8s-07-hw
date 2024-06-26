@@ -93,7 +93,7 @@
 
 Вывод: политика `Reclaim Policy: Retain` сохраняет файлы даже после удаления `PV`.
 
-Манифесты:
+Манифесты:  
 [deployment](/deploy_busybox_multitool.yml)  
 [pvc](/pvc-one.yml)  
 [pv](/pv-one.yml)
@@ -112,7 +112,7 @@
 ![pod](img/k8s-07_11.png)
 
 
-Манифесты:
+Манифесты:  
 [deployment](/deploy_multitool.yml)  
 [pvc](/pvc-nfs.yml)
 
